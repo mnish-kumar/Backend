@@ -1,2 +1,3 @@
 # Backend
-i am alounced today i will start the learnig backend...
+Learn js 
+
